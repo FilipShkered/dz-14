@@ -1,0 +1,10 @@
+.body {
+    background-position: cover;
+    background-image: url(/img/1618501731_1-p-fon-tetrad-v-kletochku-1.jpg);
+    
+}
+
+.done {
+    background-color: green;
+    transition: 1s;
+}
